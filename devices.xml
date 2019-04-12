@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+	<Klte>
+	    <Filename>GA-N-v7.1.2-20190411-klte-Release.zip</Filename>
+	    <RomUrl
+		id="rom"
+		title="ROM"
+		description="Download latest build">https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20190411-klte-Release.zip/download</RomUrl>
+	    <ChangelogUrl
+		id="changelog"
+		title="Changelog"
+		description="View changelog">http://groovyandroid.ga/changelog</ChangelogUrl>
+	    <OpenGappsUrl
+		id="open_gapps"
+		title="Open GApps"
+		description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	    <WebUrl
+		id="web"
+		title="Web"
+		description="Groovy Android website">http://groovyandroid.ga</WebUrl>
+	    <XDAUrl
+		id="xda"
+		title="XDA"
+		description="XDA Forum thread">https://forum.xda-developers.com/</XDAUrl>
+	</Klte>
+	<Klteduos>
+	    <Filename>Release.zip</Filename>
+	    <RomUrl
+		id="rom"
+		title="ROM"
+		description="Download latest build">download</RomUrl>
+	    <ChangelogUrl
+		id="changelog"
+		title="Changelog"
+		description="View changelog">http://groovyandroid.ga/changelog</ChangelogUrl>
+	    <OpenGappsUrl
+		id="open_gapps"
+		title="Open GApps"
+		description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	    <WebUrl
+		id="web"
+		title="Web"
+		description="Groovy Android website">http://groovyandroid.ga</WebUrl>
+	    <XDAUrl
+		id="xda"
+		title="XDA"
+		description="XDA Forum thread">https://forum.xda-developers.com/</XDAUrl>
+	</Klteduos>
+	<Kltedv>
+	    <Filename>GA-N-Release.zip</Filename>
+	    <RomUrl
+		id="rom"
+		title="ROM"
+		description="Download latest build">download</RomUrl>
+	    <ChangelogUrl
+		id="changelog"
+		title="Changelog"
+		description="View changelog">http://groovyandroid.ga/changelog</ChangelogUrl>
+	    <OpenGappsUrl
+		id="open_gapps"
+		title="Open GApps"
+		description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	    <WebUrl
+		id="web"
+		title="Web"
+		description="Groovy Android website">http://groovyandroid.ga</WebUrl>
+	    <XDAUrl
+		id="xda"
+		title="XDA"
+		description="XDA Forum thread">https://forum.xda-developers.com/</XDAUrl>
+	</Kltedv>
+        <Kltekor>
+	    <Filename>GA-N-Release.zip</Filename>
+	    <RomUrl
+		id="rom"
+		title="ROM"
+		description="Download latest build">download</RomUrl>
+	    <ChangelogUrl
+		id="changelog"
+		title="Changelog"
+		description="View changelog">http://groovyandroid.ga/changelog</ChangelogUrl>
+	    <OpenGappsUrl
+		id="open_gapps"
+		title="Open GApps"
+		description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	    <WebUrl
+		id="web"
+		title="Web"
+		description="Groovy Android website">http://groovyandroid.ga</WebUrl>
+	    <XDAUrl
+		id="xda"
+		title="XDA"
+		description="XDA Forum thread">https://forum.xda-developers.com/</XDAUrl>
+	</Kltekor>
+    </Stable>
+</SlimOTA>
