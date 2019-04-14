@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	<Klte>
-	    <Filename>GA-N-v7.1.2-20190412-klte-Release.zip</Filename>
+	    <Filename>GA-N-v7.1.2-20190414-klte-Release.zip</Filename>
 	    <RomUrl
 		id="rom"
 		title="ROM"
-		description="Download latest build">https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20190412-klte-Release.zip/download</RomUrl>
+		description="Download latest build">https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20190414-klte-Release.zip/download</RomUrl>
 	    <ChangelogUrl
 		id="changelog"
 		title="Changelog"
