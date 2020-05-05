@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<klte>
-    	    <Filename>GA-N-v7.1.2-20200419-klte-Release.zip</Filename>
+    	    <Filename>GA-N-v7.1.2-20200505-klte-Release.zip</Filename>
     	    <RomUrl
 				id="rom"
 				title="ROM"
-				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20200419-klte-Release.zip/download</RomUrl>
+				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/klte/GA-N-v7.1.2-20200505-klte-Release.zip/download</RomUrl>
 			<ChangelogUrl
 				id="changelog"
 				title="Changelog"
@@ -25,11 +25,11 @@
 				description="XDA Forum thread">https://forum.xda-developers.com/galaxy-s5/unified-development/rom-groovy-android-t3921317</XDAUrl>
     	</klte>
 		<klteduos>
-    	    <Filename>GA-N-v7.1.2-20190412-klteduos-Release.zip</Filename>
+    	    <Filename>GA-N-v7.1.2-20200505-klteduos-Release.zip</Filename>
     	    <RomUrl
 				id="rom"
 				title="ROM"
-				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/klteduos/GA-N-v7.1.2-20190412-klteduos-Release.zip/download</RomUrl>
+				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/klteduos/GA-N-v7.1.2-20200505-klteduos-Release.zip/download</RomUrl>
 			<ChangelogUrl
 				id="changelog"
 				title="Changelog"
@@ -48,11 +48,11 @@
 				description="XDA Forum thread">https://forum.xda-developers.com/galaxy-s5/unified-development/rom-groovy-android-t3921317</XDAUrl>
     	</klteduos>
 		<kltedv>
-    	    <Filename>GA-N-v7.1.2-20190412-kltedv-Release.zip</Filename>
+    	    <Filename>GA-N-v7.1.2-20200505-kltedv-Release.zip</Filename>
     	    <RomUrl
 				id="rom"
 				title="ROM"
-				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/kltedv/GA-N-v7.1.2-20190412-kltedv-Release.zip/download</RomUrl>
+				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/kltedv/GA-N-v7.1.2-20200505-kltedv-Release.zip/download</RomUrl>
 			<ChangelogUrl
 				id="changelog"
 				title="Changelog"
@@ -71,11 +71,11 @@
 				description="XDA Forum thread">https://forum.xda-developers.com/galaxy-s5/unified-development/rom-groovy-android-t3921317</XDAUrl>
     	</kltedv>
 		<kltekor>
-    	    <Filename>GA-N-v7.1.2-20190412-kltekor-Release.zip</Filename>
+    	    <Filename>GA-N-v7.1.2-20200505-kltekor-Release.zip</Filename>
     	    <RomUrl
 				id="rom"
 				title="ROM"
-				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/kltekor/GA-N-v7.1.2-20190412-kltekor-Release.zip/download</RomUrl>
+				description="Download latest build">https://sourceforge.net/projects/groovy-android/files/kltekor/GA-N-v7.1.2-20200505-kltekor-Release.zip/download</RomUrl>
 			<ChangelogUrl
 				id="changelog"
 				title="Changelog"
